@@ -8,5 +8,6 @@
     </head>
     <body>
         Welcome aliens.
+    <a href="/logout">logout</a>
     </body>
 </html>
